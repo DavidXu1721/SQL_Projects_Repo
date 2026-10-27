@@ -11,13 +11,22 @@ The project focused on extracting meaningful information from structured dataset
 ## Skills Demonstrated
 
 - **SELECT & DISTINCT:** Retrieved specific columns and identified unique values from database tables.
+<img src='./images/Day1_Task2_1.png' />
+
 - **WHERE:** Filtered records using conditions and operators including `AND`, `OR`, `IN`, `BETWEEN`, and `LIKE`.
+<img src='./images/Day1_Task2_2.png' />
+
 - **ORDER BY & LIMIT:** Sorted query results and identified highest- and lowest-value records.
+<img src='./images/Day4_Task1_1.png' />
+
 - **GROUP BY:** Grouped records to summarise information and identify patterns across categories.
 - **Aggregate Functions:** Used `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and `MAX()` to calculate summary statistics.
+<img src='./images/Day3_Task2_2.png' />
+
 - **SQL JOINs:** Combined related tables using `INNER JOIN` to retrieve information across relational datasets.
 - **Subqueries:** Used nested queries to filter records based on results from other queries.
 - **Relational Databases:** Explored table relationships, primary keys, foreign keys, and database structures.
+<img src='./images/Day4_Task1_2.png' />
 
 ## Data Analysis Applications
 
